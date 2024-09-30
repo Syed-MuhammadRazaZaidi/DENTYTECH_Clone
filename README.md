@@ -1,1 +1,1 @@
-# DENTYTECH_Clone
+# DENTYTECH_Landing_Page_Clone
